@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.dashboard {
+  margin-top: 20px;
+}
+
+.simulation {
+  margin-top: 20px;
+}
+
+.panel {
+  margin: 0 auto;
+  padding: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  transition: transform 1s ease;
+}
